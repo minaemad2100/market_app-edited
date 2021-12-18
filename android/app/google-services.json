@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093231033810",
+    "project_id": "market-de76b",
+    "storage_bucket": "market-de76b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093231033810:android:689846268293c428ea5c0b",
+        "android_client_info": {
+          "package_name": "com.itsharks.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093231033810-h5lht2rjhpbsv5qttoamoagp6ls90rca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAto1TkcuXT8-62G-zcY599XhXrwq4HHck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093231033810-h5lht2rjhpbsv5qttoamoagp6ls90rca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
